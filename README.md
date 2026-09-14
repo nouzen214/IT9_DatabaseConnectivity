@@ -15,6 +15,7 @@ Pamana is a simple Unity 2D educational game where players explore Philippine hi
 ## Tools Used
 
 ## Database Used
+- Firebase Realtime Database
 
 ## Data Saved
 
