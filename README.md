@@ -33,7 +33,7 @@ Pamana is a simple Unity 2D educational game where players explore Philippine hi
 ## How to Run
 
 ## Repository Access
-
+https://github.com/nouzen214/IT9_DatabaseConnectivity.git
 ## Known Limitations
 
 ## References
