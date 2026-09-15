@@ -43,7 +43,7 @@ Click the link above and the game can be played in any browser.
 https://github.com/nouzen214/IT9_DatabaseConnectivity.git
 
 ## Known Limitations
-The current game prototype demonstrates the core gameplay mechanics of the IT9's project. Due to its early phase, features including sound effects, player exploration and other levels, have not yet been implemented.
+The current game prototype demonstrates the core gameplay mechanics of the IT9's project. Due to its early phase, features including sound effects, player exploration and other levels, have not yet been implemented.git 
 
 ## References
 
