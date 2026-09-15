@@ -40,6 +40,7 @@ https://nouzen214.github.io/IT9_DatabaseConnectivity/
 Click the link above and the game can be played in any browser.
 
 ## Repository Access
+Public
 https://github.com/nouzen214/IT9_DatabaseConnectivity.git
 
 ## Known Limitations
