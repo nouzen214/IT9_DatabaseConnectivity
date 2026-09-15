@@ -31,10 +31,19 @@ Pamana is a simple Unity 2D educational game where players explore Philippine hi
 - Timestamp (date and time created)
   
 ## How to Run
+The game prototype is available online and can be access through the link below:
+
+Prototype Link:
+
+https://nouzen214.github.io/IT9_DatabaseConnectivity/
+
+Click the link above and the game can be played in any browser.
 
 ## Repository Access
 https://github.com/nouzen214/IT9_DatabaseConnectivity.git
+
 ## Known Limitations
+The current game prototype demonstrates the core gameplay mechanics of the IT9's project. Due to its early phase, features including sound effects, player exploration and other levels, have not yet been implemented.
 
 ## References
 
